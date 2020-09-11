@@ -6,7 +6,7 @@ public class ArrayFunction {
 
 	public static void main(String[] args) {
 		
-		
+		// It'll not good for memory management ok
 	int[] a=new int [5];
 	a[0]=10;
 	a[2]=2;
